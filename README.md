@@ -13,9 +13,9 @@
 
 ### 4. 相关界面和内容介绍
 界面 | 内容介绍 |
---- | --- | ---
+--- | --- | --- |  
 [首页](http://leetong.pythonanywhere.com/)    |   36个主要城市的生活压力排名   |   
 [人口密度](http://leetong.pythonanywhere.com/density)   |    了解2018年36个主要城市的人口密度情况，反映各城市的就业竞争情况      |     
-[人均消费支出与平均薪资](http://leetong.pythonanywhere.com/consumption)   |  分析36个主要城市的人均消费支出和平均薪资的关系，了解人均的基本储蓄    |
-[住宅商品房平均房价](http://leetong.pythonanywhere.com/house_prices)   |   36个主要城市近10年各城市的住宅商品房的平均房价，了解各城市的购房压力   |
+[人均消费支出与平均薪资](http://leetong.pythonanywhere.com/consumption)   |  分析36个主要城市的人均消费支出和平均薪资的关系，了解人均的基本储蓄    |  
+[住宅商品房平均房价](http://leetong.pythonanywhere.com/house_prices)   |   36个主要城市近10年各城市的住宅商品房的平均房价，了解各城市的购房压力   |  
 [失业率](http://leetong.pythonanywhere.com/unemployment)   |   36个主要城市近5年的失业率，通过失业率了解各城市的就业环境   |
